@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+h1 {
+    color: #fff;
+    background-color: black;
+}
+
+#head {
+    text-align: center;
+    background-color: silver;
+}
+
+#line {
+    text-decoration: underline;
+}
+
+#color {
+    color: red;
+}
+
+a {
+    color: #fff;
+    background-color: rgba(214, 1, 1, 0.493);
+    text-decoration: line-through;
+}
+
+a:hover {
+    background-color: blue;
+    color: blueviolet;
+}
+
+h2 {
+    color: rgb(35, 122, 93);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.right {
+    text-align: right;
+    background-color: rgb(35, 122, 93);
+    color: #fff;
+}
+
+.orange {
+    background-color: orange;
+}
+
+#point {
+    color: red;
+    font-size: 13px;
+}
